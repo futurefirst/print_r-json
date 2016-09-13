@@ -16,4 +16,4 @@ function print_r(obj /*:any*/, rtn /*:?boolean*/) {
   }
 }
 
-exports = print_r;
+module.exports = print_r;
