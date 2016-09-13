@@ -1,0 +1,25 @@
+{
+  "name": "print_r-json",
+  "version": "1.0.0",
+  "description": "An approximate equivalent of PHP's print_r function, pretty-prints almost any type as JSON.",
+  "main": "print_r.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/futurefirst/print_r-json.git"
+  },
+  "keywords": [
+    "json",
+    "php",
+    "print_r",
+    "pretty-print"
+  ],
+  "author": "David Knoll <david@futurefirst.org.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurefirst/print_r-json/issues"
+  },
+  "homepage": "https://github.com/futurefirst/print_r-json#readme"
+}
