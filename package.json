@@ -1,6 +1,6 @@
 {
   "name": "print_r-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An approximate equivalent of PHP's print_r function, pretty-prints almost any type as JSON.",
   "main": "print_r.js",
   "scripts": {
